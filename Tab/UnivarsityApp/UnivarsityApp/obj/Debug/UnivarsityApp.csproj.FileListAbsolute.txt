@@ -1,0 +1,22 @@
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\bin\Debug\UnivarsityApp.exe.config
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\bin\Debug\UnivarsityApp.exe
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\bin\Debug\UnivarsityApp.pdb
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.csprojResolveAssemblyReference.cache
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.Form1.resources
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.Properties.Resources.resources
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.csproj.GenerateResource.Cache
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.exe
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.pdb
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.SearchUI.resources
+E:\project\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.Menu.resources
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\bin\Debug\UnivarsityApp.exe.config
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.exe
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.pdb
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\bin\Debug\UnivarsityApp.exe
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\bin\Debug\UnivarsityApp.pdb
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.csprojResolveAssemblyReference.cache
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.Form1.resources
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.Menu.resources
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.Properties.Resources.resources
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.SearchUI.resources
+G:\Fdrive\ftfl c#\20-12-14\UnivarsityApp\UnivarsityApp\obj\Debug\UnivarsityApp.csproj.GenerateResource.Cache
